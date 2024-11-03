@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:src="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="50dp"
+        android:text="user"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/Favorite"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="#d1bcff"
+        android:text="Избранное"
+        android:textColor="@color/white"
+         />
+
+    <Button
+        android:id="@+id/chatBot"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#d1bcff"
+        android:text="Чат AI"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/History"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:background="#d1bcff"
+        android:text="История"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/Settings"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="#d1bcff"
+        android:text="Настройки"
+        android:textColor="@color/white" />
+</FrameLayout>
