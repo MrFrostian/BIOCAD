@@ -1,0 +1,25 @@
+"Radiotherapy has been proven to successfully treat local and regional neoplastic lesions, but it may adversely impact normal tissues. High vulnerability to irradiation was documented in various bone tissues, such as the pelvis, sternum, vertebra, clavicle, femoral head, and mandible. This leads to deleterious effects on bone metabolism and healing, resulting in infection, atrophy, pathological fractures, and osteoradionecrosis.
+
+For instance, the incidence of osteoradionecrosis after conventional radiotherapy ranges from 0.9% to 35%, with an increased risk when doses to the mandible exceed 60 Gy. Irradiation of the mandible is the most devastating radiotherapy-induced complication, sometimes leading to surgical resection.
+
+Since vascular ischemia is a predictor of postirradiation degeneration, the inception of angiogenesis by implantation of bone marrow mesenchymal stem cells (BMSCs) may represent a therapeutic approach for rehabilitating irradiated bone tissue. This potentiality has been documented in ischemic pathologies such as hindlimb ischemia or myocardial infarction.
+
+Previous data on BMSCs in bone reconstruction show their active contribution in bone formation when seeded on scaffolds. In a dog model of mandible segmental defect, bone reconstruction using morphologic and 3D beta-tricalcium phosphate scaffolds seeded with autologous BMSCs highlighted both bone formation and vascularization.
+To evaluate changes in bone blood flow and metabolism, serial TC-HDP planar scintigraphy was scheduled at 3 months after irradiation and 2 months after cell therapy. Early cell retention was assessed by dual recordings of TC/In activities at 2 hours, 48 hours, and 168 hours after cell injection."
+
+
+
+### Краткое содержание
+
+Радиотерапия успешно лечит локальные и региональные неопластические поражения, но может негативно влиять на нормальные ткани. Высокая уязвимость к облучению была отмечена в различных костных тканях, таких как таз, грудина, позвоночник, ключица, бедренная головка и челюсть. Это приводит к дегенеративным эффектам на метаболизм и заживление костей, вызывая инфекции, атрофию, патологические переломы и остеонекроз.
+
+Например, частота остеонекроза после традиционной радиотерапии варьируется от 0,9% до 35%, с повышенным риском при дозах на челюсть более 60 Гр. Облучение челюсти является наиболее разрушительным осложнением радиотерапии, иногда приводящим к хирургическому вмешательству.
+
+Поскольку ишемия сосудов является предиктором постоблучения дегенерации, введение стволовых клеток костного мозга (BMSC) может представлять собой терапевтический подход к реабилитации облученной костной ткани. Это было задокументировано в ишемических патологиях, таких как ишемия конечностей или инфаркт миокарда.
+
+Предыдущие данные о BMSC в реконструкции костей показывают их активное участие в формировании костей при их посеве на каркасы. В модели собаки с дефектом челюсти с использованием морфологических и 3D β-трикальцийфосфатных каркасов, обогащенных аутологичными BMSC, было отмечено как формирование кости, так и васкуляризация.
+
+Для оценки изменений в кровотоке и метаболизме костей была запланирована серийная сканирующая сцинтиграфия с использованием TC-HDP через 3 месяца после облучения и 2 месяца после клеточной терапии. Раннее удержание клеток оценивалось путем двойной записи TC/In активности через 2 часа, 48 часов и 168 часов после инъекции клеток.
+
+
+

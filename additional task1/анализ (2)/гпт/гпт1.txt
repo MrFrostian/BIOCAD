@@ -1,0 +1,38 @@
+"Radiotherapy has been proven to successfully treat local and regional neoplastic lesions, but it may adversely impact normal tissues. High vulnerability to irradiation was documented in various bone tissues, such as the pelvis, sternum, vertebra, clavicle, femoral head, and mandible. This leads to deleterious effects on bone metabolism and healing, resulting in infection, atrophy, pathological fractures, and osteoradionecrosis.
+
+For instance, the incidence of osteoradionecrosis after conventional radiotherapy ranges from 0.9% to 35%, with an increased risk when doses to the mandible exceed 60 Gy. Irradiation of the mandible is the most devastating radiotherapy-induced complication, sometimes leading to surgical resection.
+
+Since vascular ischemia is a predictor of postirradiation degeneration, the inception of angiogenesis by implantation of bone marrow mesenchymal stem cells (BMSCs) may represent a therapeutic approach for rehabilitating irradiated bone tissue. This potentiality has been documented in ischemic pathologies such as hindlimb ischemia or myocardial infarction.
+
+Previous data on BMSCs in bone reconstruction show their active contribution in bone formation when seeded on scaffolds. In a dog model of mandible segmental defect, bone reconstruction using morphologic and 3D beta-tricalcium phosphate scaffolds seeded with autologous BMSCs highlighted both bone formation and vascularization.
+To evaluate changes in bone blood flow and metabolism, serial TC-HDP planar scintigraphy was scheduled at 3 months after irradiation and 2 months after cell therapy. Early cell retention was assessed by dual recordings of TC/In activities at 2 hours, 48 hours, and 168 hours after cell injection."
+
+
+Радиотерапия успешно лечит локальные и региональные опухоли, но может негативно влиять на нормальные ткани, особенно на костные. Излучение приводит к нарушению костного метаболизма и заживления, вызывая инфекции, атрофию, патологические переломы и остеорадионекроз. Например, остеорадионекроз развивается у 0,9-35% пациентов после лучевой терапии, особенно если доза на нижнюю челюсть превышает 60 Гр. 
+Ишемия является фактором риска дегенерации после облучения, поэтому стимуляция ангиогенеза с помощью трансплантации мезенхимальных стволовых клеток костного мозга (BMSCs) может стать терапевтическим подходом для восстановления облученных костей. 
+В исследовании на собаках с дефектом нижней челюсти, восстановление кости с помощью 3D-скаффолдов из β-трикальцийфосфата, засеянных аутологичными BMSCs, показало как образование кости, так и васкуляризацию. Сцинтиграфия с Tc-HDP проводилась для оценки изменений кровотока и метаболизма кости. Раннее удержание клеток оценивалось по двойным измерениям активности Tc/In.
+
+В тексте выделяются следующие главные тематики:
+
+1. Влияние радиотерапии на костные ткани: 
+    * Радиотерапия успешно лечит опухоли, но негативно влияет на кости.
+    * Перечислены основные костные структуры, наиболее чувствительные к облучению (таз, грудина, позвоночник, ключица, головка бедренной кости, нижняя челюсть).
+    * Описаны негативные последствия облучения: инфекции, атрофия, переломы, остеорадионекроз.
+    * Приведен пример остеорадионекроза нижней челюсти, возникающего у 0.9-35% пациентов.
+
+2. Остеорадионекроз нижней челюсти как осложнение радиотерапии:
+    * Указана наиболее частая доза облучения, приводящая к остеорадионекрозу (более 60 Гр).
+    * Описаны тяжелые последствия, включая хирургическое удаление участка челюсти.
+
+3. Использование мезенхимальных стволовых клеток костного мозга (BMSCs) для восстановления костной ткани после облучения:
+    * Ишемия кости после облучения признана фактором риска дегенеративных изменений.
+    * Предложено использовать BMSCs для стимуляции ангиогенеза (образования новых кровеносных сосудов) и восстановления костной ткани.
+    * Приведены примеры использования BMSCs при лечении ишемических заболеваний (ишемия конечностей, инфаркт миокарда).
+    * Указаны предыдущие исследования, подтверждающие способность BMSCs к образованию костной ткани.
+
+4. Экспериментальное исследование на собаках:
+    * Описан эксперимент с использованием 3D-скаффолдов из β-трикальцийфосфата, засеянных BMSCs для восстановления дефекта нижней челюсти у собак.
+    * Указаны методы оценки результатов: сцинтиграфия с Tc-HDP для оценки кровотока и метаболизма кости, двойные измерения активности Tc/In для оценки удержания клеток.
+
+Таким образом, текст включает в себя информацию о проблеме негативного влияния радиотерапии на кости, методах восстановления костной ткани с помощью BMSCs и результатах экспериментального исследования на собаках.
+
