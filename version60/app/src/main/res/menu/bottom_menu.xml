@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id ="@+id/SearchBook"
+    android:title="Найти книгу"
+    android:icon="@drawable/baseline_upload_file_24"/>
+    <item
+        android:id ="@+id/UploadData"
+        android:title="Загрузить"
+        android:icon="@drawable/baseline_upload_file_24"/>
+    <item
+        android:id ="@+id/home"
+        android:title="Профиль"
+
+        android:icon="@drawable/baseline_home_24"
+    />
+
+</menu>
